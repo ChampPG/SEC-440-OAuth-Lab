@@ -1,0 +1,4 @@
+Flask
+wheel
+pyOpenSSL
+requests_oauthlib
